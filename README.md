@@ -1,8 +1,7 @@
-
 <h1 align="center">Hi, I'm Aymane Assaidi 👋</h1>
 
 <h3 align="center">
-  IT Student | Web Developer | AI & Data Analytics Enthusiast
+  Web Developer | IT Student | AI & Software Development
 </h3>
 
 <p align="center">
@@ -18,13 +17,12 @@
 
 ## 👨‍💻 About Me
 
-I'm an IT student and aspiring software developer from Nador, Morocco, passionate about technology, innovation, and digital solutions.
+I'm a Web Developer and IT student from Nador, Morocco, passionate about software development, artificial intelligence, and building impactful digital solutions.
 
 My interests and professional focus include:
 
 - 🌐 **Web Development** — Building modern, responsive, and user-friendly web experiences.
 - 🤖 **Artificial Intelligence** — Exploring AI technologies and developing intelligent solutions.
-- 📊 **Data Analytics** — Working with data to discover insights and support better decisions.
 - 💻 **Software Development** — Learning, designing, and building practical software solutions.
 
 I'm continuously developing my technical skills through hands-on projects, independent learning, and professional experience.
@@ -51,7 +49,7 @@ More to come.
 
 - Web Development
 - Artificial Intelligence
-- Data Analytics
+- Software Development
 - Software Engineering
 - Digital Innovation
 - Technology & Entrepreneurship
@@ -60,8 +58,7 @@ More to come.
 
 - Improving my web development skills.
 - Exploring Artificial Intelligence applications.
-- Developing my knowledge of Data Analytics.
-- Building practical projects and expanding my portfolio.
+- Building practical software projects and expanding my portfolio.
 - Growing professionally through international experience.
 - Developing the vision and foundations of VELORANTIS.
 
